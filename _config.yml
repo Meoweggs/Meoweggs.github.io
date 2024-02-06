@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zihan Ye"
-description              : "Passionate undergraduate in the Department of Sociology. Interested in Inequalities, Organizational Sociology & Computational Social Science."
+description              : "Passionate undergraduate in the Department of Sociology. Interested in inequalities, organizational sociology & computational social science."
 repository               : "Meoweggs/Meoweggs.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -27,7 +27,7 @@ author:
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    :  # e.g., "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "yzh20030314@stu.pku.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
